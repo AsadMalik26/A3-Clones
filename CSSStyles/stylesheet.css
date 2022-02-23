@@ -1,0 +1,6 @@
+* {
+    box-sizing: 100%;
+}
+html .container-fluid {
+    border: 2px solid red;
+}
