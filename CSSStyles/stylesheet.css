@@ -2,5 +2,22 @@
     box-sizing: 100%;
 }
 html .container-fluid {
-    border: 2px solid red;
+    /* border: 1px solid rgb(84, 194, 188); */
+}
+
+header {
+    /* border: 1px rgb(207, 131, 59); */
+    /* border-style: dashed; */
+}
+header ul {
+    /* border: 1px rgb(101, 207, 59);
+    border-style: dotted; */
+    list-style-type: none;
+    margin: 0%;
+}
+header ul li {
+    display: inline;
+    border: 1px rgb(47, 58, 219);
+    border-style: dotted;
+    /* margin: 1px, 3px; */
 }
